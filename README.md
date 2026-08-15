@@ -71,7 +71,10 @@ The application enables administrators and faculty members to manage student dat
 
 * Vercel
 
----
+Access the deployed application here:
+
+Live Application:
+https://student-records-25x55yx5t-alpha-coders3.vercel.app
 
 ## 📂 Project Structure
 
@@ -246,3 +249,10 @@ This project is licensed under the MIT License.
 Developed as a Student Records Management solution for educational institutions.
 
 For suggestions and improvements, feel free to contribute to the project.
+
+
+📌 Overview
+
+Student Records Management System is a web-based application designed to efficiently manage student information within an educational institution. The system provides a centralized platform for maintaining student records, academic details, and administrative operations.
+
+The application enables administrators and faculty members to manage student data while providing a structured and user-friendly interface for record maintenance.
